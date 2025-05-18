@@ -1,0 +1,8 @@
+# Ignorar archivos generados automáticamente
+bin/
+obj/
+*.exe
+*.resx
+*.pdb
+*.sln
+.vs/
